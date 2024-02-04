@@ -12,4 +12,4 @@ Welcome to my awesome project! Here's a cool video:
 </video>
 
 论文结构
-![image text](Articles illustration/._Fig1.png)
+![alt text](Articles illustration/._Fig1.png)
