@@ -7,4 +7,4 @@ With the rapid advancement of artificial intelligence and computer vision techno
 Welcome to my awesome project! Here's a cool video:
 
 论文结构
-![alt text](https://github.com/SHULiuZZ/Research_on_Comprehensive_Human_Emotion_and_Behavior_Assessment_System/blob/0d195188345dac169b5e180e40a9f7906678fc29/Articles%20illustration/._Fig1.png)
+![alt text](image/Fig1.png)
