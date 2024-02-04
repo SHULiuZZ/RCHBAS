@@ -12,4 +12,4 @@ Welcome to my awesome project! Here's a cool video:
 </video>
 
 论文结构
-![image text](https://github.com/SHULiuZZ/Research_on_Comprehensive_Human_Emotion_and_Behavior_Assessment_System/blob/main/Articles%20illustration/._Fig1.png)
+![image text](Articles illustration/._Fig1.png)
