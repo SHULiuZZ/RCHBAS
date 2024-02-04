@@ -11,6 +11,5 @@ Welcome to my awesome project! Here's a cool video:
   Your browser does not support the video tag.
 </video>
 
-[![video]](https://github.com/SHULiuZZ/Research_on_Comprehensive_Human_Emotion_and_Behavior_Assessment_System/blob/main/Demo/Demo.mp4)
 论文结构
 ![image text](https://github.com/SHULiuZZ/Research_on_Comprehensive_Human_Emotion_and_Behavior_Assessment_System/blob/main/Articles%20illustration/._Fig1.png)
