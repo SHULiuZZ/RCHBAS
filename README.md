@@ -6,10 +6,5 @@ With the rapid advancement of artificial intelligence and computer vision techno
 # My GitHub Project
 Welcome to my awesome project! Here's a cool video:
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/SHULiuZZ/Research_on_Comprehensive_Human_Emotion_and_Behavior_Assessment_System/blob/main/Demo/Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 论文结构
-![alt text](https://github.com/SHULiuZZ/Research_on_Comprehensive_Human_Emotion_and_Behavior_Assessment_System/blob/main/Articles%20illustration/._Fig1.png)
+![alt text](https://github.com/SHULiuZZ/Research_on_Comprehensive_Human_Emotion_and_Behavior_Assessment_System/blob/0d195188345dac169b5e180e40a9f7906678fc29/Articles%20illustration/._Fig1.png)
