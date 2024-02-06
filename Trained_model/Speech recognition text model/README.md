@@ -2,15 +2,6 @@
 
 
 
-**ReadMe Language** | 中文版 | [English](https://github.com/nl8590687/ASRT_SpeechRecognition/blob/master/README_EN.md) |
-
-[**ASRT项目主页**](https://asrt.ailemon.net/) | 
-[**发布版下载**](https://wiki.ailemon.net/docs/asrt-doc/download) | 
-[**查看本项目的Wiki文档**](https://wiki.ailemon.net/docs/asrt-doc) | 
-[**实用效果体验Demo**](https://asrt.ailemon.net/demo) | 
-[**打赏作者**](https://wiki.ailemon.net/docs/asrt-doc/asrt-doc-1deo9u61unti9)
-
-
 
 ## Introduction 简介
 
@@ -144,7 +135,7 @@ $ pip install -r requirements.txt
 
 完整内容请查看：[几个最新免费开源的中文语音数据集](https://blog.ailemon.net/2018/11/21/free-open-source-chinese-speech-datasets/)
 
-|数据集|时长|大小|国内下载|国外下载|
+|数据集|时长|大小|下载1|下载2|
 |-|-|-|-|-|
 |THCHS30|40h|6.01G|[data_thchs30.tgz](<http://openslr.magicdatatech.com/resources/18/data_thchs30.tgz>)|[data_thchs30.tgz](<http://www.openslr.org/resources/18/data_thchs30.tgz>)|
 |ST-CMDS|100h|7.67G|[ST-CMDS-20170001_1-OS.tar.gz](<http://openslr.magicdatatech.com/resources/38/ST-CMDS-20170001_1-OS.tar.gz>)|[ST-CMDS-20170001_1-OS.tar.gz](<http://www.openslr.org/resources/38/ST-CMDS-20170001_1-OS.tar.gz>)|
@@ -165,15 +156,4 @@ $ pip install -r requirements.txt
 
 如果提供的数据集链接无法打开和下载，请点击该链接 [OpenSLR](http://www.openslr.org)
 
-## ASRT语音识别API客户端调用SDK
 
-ASRT为客户端通过RPC方式调用开发语音识别功能提供了不同平台和编程语言的SDK接入能力，对于其他平台，可直接通过调用通用RESTful Open API方式进行语音识别功能接入。具体接入步骤请看ASRT项目文档。
-
-|客户端平台|项目仓库链接|
-|-|-|
-|Windows客户端SDK和Demo|[ASRT_SDK_WinClient](https://github.com/nl8590687/ASRT_SDK_WinClient)|
-|跨平台Python3客户端SDK和Demo|[ASRT_SDK_Python3](https://github.com/nl8590687/ASRT_SDK_Python3)|
-|跨平台Golang客户端SDK和Demo|[asrt-sdk-go](https://github.com/nl8590687/asrt-sdk-go)|
-|Java客户端SDK和Demo|[ASRT_SDK_Java](https://github.com/nl8590687/ASRT_SDK_Java)|
-
-@nl8590687 (repo owner)
