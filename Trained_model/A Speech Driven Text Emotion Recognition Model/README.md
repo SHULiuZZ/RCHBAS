@@ -61,16 +61,6 @@ python infer_path.py --wav_path=./dataset/test_vad.wav --is_long_audio=True
 ```
 
 
- - Web部署
-
-![录音测试页面](./docs/images/infer_server.jpg)
-
-
- - GUI界面部署
-
-![GUI界面](./docs/images/infer_gui.jpg)
-
-
 
 ## 参考资料
  - https://github.com/PaddlePaddle/PaddleSpeech
