@@ -173,7 +173,7 @@ $ pip install -r requirements.txt
   $ for tar in *.tar.gz;  do tar xvf $tar; done
   ```
 
-特别鸣谢！感谢前辈们的公开语音数据集
+
 
 如果提供的数据集链接无法打开和下载，请点击该链接 [OpenSLR](http://www.openslr.org)
 
@@ -187,40 +187,5 @@ ASRT为客户端通过RPC方式调用开发语音识别功能提供了不同平�
 |跨平台Python3客户端SDK和Demo|[ASRT_SDK_Python3](https://github.com/nl8590687/ASRT_SDK_Python3)|
 |跨平台Golang客户端SDK和Demo|[asrt-sdk-go](https://github.com/nl8590687/asrt-sdk-go)|
 |Java客户端SDK和Demo|[ASRT_SDK_Java](https://github.com/nl8590687/ASRT_SDK_Java)|
-
-## ASRT相关资料 
-* [查看ASRT项目的Wiki文档](https://wiki.ailemon.net/docs/asrt-doc)
-
-ASRT的原理请查看本文：
-* [ASRT：一个中文语音识别系统](https://blog.ailemon.net/2018/08/29/asrt-a-chinese-speech-recognition-system/)
-
-ASRT训练和部署教程请看：
-* [教你如何使用ASRT训练中文语音识别模型](<https://blog.ailemon.net/2020/08/20/teach-you-how-use-asrt-train-chinese-asr-model/>)
-* [教你如何使用ASRT部署中文语音识别API服务器](<https://blog.ailemon.net/2020/08/27/teach-you-how-use-asrt-deploy-chinese-asr-api-server/>)
-
-关于经常被问到的统计语言模型原理的问题，请看：
-
-* [统计语言模型：从中文拼音到文本](https://blog.ailemon.net/2017/04/27/statistical-language-model-chinese-pinyin-to-words/)
-* [统计N元语言模型生成算法：简单中文词频统计](https://blog.ailemon.net/2017/02/20/simple-words-frequency-statistic-without-segmentation-algorithm/)
-
-关于CTC的问题请看：
-
-* [[翻译]使用CTC进行序列建模](<https://blog.ailemon.net/2019/07/18/sequence-modeling-with-ctc/>)
-
-更多内容请访问作者的博客：[AI柠檬博客](https://blog.ailemon.net/)
-
-或使用[AI柠檬站内搜索引擎](https://s.ailemon.net/)进行相关信息的搜索
-
-## License 开源许可协议
-
-[GPL v3.0](LICENSE) © [nl8590687](https://github.com/nl8590687) 作者：[AI柠檬](https://www.ailemon.net/)
-
-## 参考引用本项目
-
-[DOI: 10.5281/zenodo.5808434](https://doi.org/10.5281/zenodo.5808434)
-
-## Contributors 贡献者们
-
-[贡献者页面](https://github.com/nl8590687/ASRT_SpeechRecognition/graphs/contributors)
 
 @nl8590687 (repo owner)
