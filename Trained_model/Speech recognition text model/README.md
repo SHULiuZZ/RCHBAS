@@ -1,12 +1,6 @@
-![](https://res.ailemon.net/common/asrt_title_header.png)
 
-[![GPL-3.0 Licensed](https://img.shields.io/badge/License-GPL3.0-blue.svg?style=flat)](https://opensource.org/licenses/GPL-3.0) 
-[![Stars](https://img.shields.io/github/stars/nl8590687/ASRT_SpeechRecognition)](https://github.com/nl8590687/ASRT_SpeechRecognition) 
-[![TensorFlow Version](https://img.shields.io/badge/Tensorflow-1.15+-blue.svg)](https://www.tensorflow.org/) 
-[![Python Version](https://img.shields.io/badge/Python-3.6+-blue.svg)](https://www.python.org/) 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5808434.svg)](https://doi.org/10.5281/zenodo.5808434)
 
-ASRT是一个基于深度学习的中文语音识别系统，如果您觉得喜欢，请点一个 **"Star"** 吧~
+
 
 **ReadMe Language** | 中文版 | [English](https://github.com/nl8590687/ASRT_SpeechRecognition/blob/master/README_EN.md) |
 
@@ -16,13 +10,7 @@ ASRT是一个基于深度学习的中文语音识别系统，如果您觉得喜�
 [**实用效果体验Demo**](https://asrt.ailemon.net/demo) | 
 [**打赏作者**](https://wiki.ailemon.net/docs/asrt-doc/asrt-doc-1deo9u61unti9)
 
-如果程序运行期间或使用中有什么问题，可以及时在issue中提出来，我将尽快做出答复。本项目作者交流QQ群：**894112051**
 
-提问前请仔细查看[项目文档](https://asrt.ailemon.net/docs/)、 
-[FAQ常见问题](https://wiki.ailemon.net/docs/asrt-doc/asrt-doc-1deoeud494h4f)
-以及[Issues](https://github.com/nl8590687/ASRT_SpeechRecognition/issues) 避免重复提问
-
-如果程序运行时有任何异常情况，在提问时请发出完整截图，并注明所使用的CPU架构，GPU型号，操作系统、Python，TensorFlow和CUDA版本，以及是否修改过任何代码或增删数据集等。
 
 ## Introduction 简介
 
